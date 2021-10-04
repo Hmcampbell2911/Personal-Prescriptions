@@ -1,0 +1,24 @@
+A one paragraph or longer description of what your project is about
+
+Add new Patients in a family
+
+Previous Prescriptions
+	What worked?  Didn’t work?
+	What for?  Why stopped?
+	Dates medication was taken.
+
+Current Prescriptions
+	Prescription #.
+	Reason for Medication.
+	Refill on Date:
+	Strength/dosage.
+	Time of day.
+
+Which 3+ features included from the list to meet the project requirements.
+1. Implement a “master loop” console application where the user can repeatedly enter commands/perform actions, including choosing to exit the program
+2. Create an additional class which inherits one or more properties from its parent.
+3. Read data from an external file, such as text, JSON, CSV, etc and use that data in your application.
+4. Implement a log that records errors, invalid inputs, or other important events and writes them to a text file. (Refill on Date:)
+
+OPTIONAL use online database to collect data about script
+Use a LINQ query to retrieve information from a data structure (such as a list or array) or file
